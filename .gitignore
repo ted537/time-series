@@ -1,3 +1,8 @@
 *.swp
 .cache
 dist
+node_modules
+
+# disabled for now.
+# track this if you want more stability
+package-lock.json
